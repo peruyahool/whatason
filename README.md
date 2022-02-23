@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @whatason
+- 👋 Hi, I’m Yahool 
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...c++ and python 
-- 💞️ I’m looking to collaborate on ...website plus games
+- 💞️ I’m looking to collaborate on ...website + games
 - 📫 How to reach me ...email
 
 
