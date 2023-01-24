@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Yahool 
-- 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...c++ and python 
-- 💞️ I’m looking to collaborate on ...website + games
-- 📫 How to reach me ...peruyahool@gmail.com
-- 
+print("hey,i'm yahool");
+ 
+#include<stdio.h>
 
+int main();
+
+{
+
+printf("enthusiastic about coding currently learning MySql and artificial intelligence and machine learning
+          collaborate on creating websites,games, and mini projects");
+
+return 0;
+
+)
+ 
+
+#include<iostream>
+
+  int main();
+  
+  { 
+  
+  printf("reach me on email peruyahool@gmail.com")
 
 <!---
 whatason/whatason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
